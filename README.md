@@ -2,6 +2,8 @@
 
 A handy Python script to resize an image.
 
+![ImageResizer](https://github.com/CodeMaster7000/Image-Resizer/assets/95772109/3a086caf-6af4-4189-8599-66980be8751e)
+
 ## Prerequisites 
 
 - Python 3
